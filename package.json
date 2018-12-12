@@ -1,0 +1,24 @@
+{
+  "name": "flusso",
+  "version": "0.1.1",
+  "description": "FCS (Flow Cytometry Standard) parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammerlab/flusso.git"
+  },
+  "keywords": [
+    "flow",
+    "fcs",
+    "parser"
+  ],
+  "author": "B. Arman Aksoy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hammerlab/flusso/issues"
+  },
+  "homepage": "https://github.com/hammerlab/flusso#readme"
+}
