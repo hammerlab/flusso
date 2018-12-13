@@ -4,7 +4,9 @@
   "description": "FCS (Flow Cytometry Standard) parser",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "fix-fmt": "npx prettier --write '{lib,test}/*.js'",
+    "check-fmt": "npx prettier --list-different '{lib,test}/*.js'"
   },
   "repository": {
     "type": "git",
