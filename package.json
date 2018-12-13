@@ -4,7 +4,7 @@
   "description": "FCS (Flow Cytometry Standard) parser",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/hammerlab/flusso/issues"
   },
-  "homepage": "https://github.com/hammerlab/flusso#readme"
+  "homepage": "https://github.com/hammerlab/flusso#readme",
+  "dependencies": {
+    "binary-parser": "^1.3.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "prettier": "^1.15.3"
+  }
 }
