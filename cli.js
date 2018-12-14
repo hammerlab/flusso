@@ -5,7 +5,7 @@ var flusso = require(".");
 
 let fcsParser = flusso.fcsParser;
 
-program.version("0.1.1");
+program.version("0.1.2");
 
 program
   .command("json <fcsFile>")
