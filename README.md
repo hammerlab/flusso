@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/hammerlab/flusso.svg?branch=master)](https://travis-ci.com/hammerlab/flusso)
+[![NPM version](https://img.shields.io/npm/v/flusso.svg)](https://www.npmjs.com/package/flusso)
+
 
 # flusso
 Dead simple FCS (Flow Cytometry Standard) file parsing utility.
