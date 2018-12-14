@@ -1,6 +1,6 @@
 {
   "name": "flusso",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "FCS (Flow Cytometry Standard) parser",
   "main": "index.js",
   "scripts": {
